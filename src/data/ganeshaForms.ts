@@ -1,4 +1,3 @@
-
 export interface GaneshaForm {
   id: string;
   name: string;
@@ -20,7 +19,6 @@ export const ganeshaImages: Record<string, string> = {
   "heramba-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
   "kshipra-ganapati": "/lovable-uploads/c0bf9183-1ddd-4366-a273-c8bf428d8628.png",
   "ucchishta-ganapati": "/lovable-uploads/61864101-b55b-45b0-b3a9-d61fd36c0e4d.png",
-  "heramba-ganapati": "/lovable-uploads/48e0d7c7-be0b-4860-ac21-cc2d43888de4.png",
   "maha-ganapati": "/lovable-uploads/c5d6f463-3d8b-4d40-a82b-f8f235c90573.png"
 };
 
@@ -128,7 +126,7 @@ export const ganeshaForms: GaneshaForm[] = [
     story: [
       "Uchchhishta Ganapathi is a unique and powerful form of Ganesha, often depicted with his divine consort, Shakti, symbolizing harmony and the sacredness of all creation. With a captivating dark blue complexion, he holds items like a blue lotus, a pomegranate, and a veena.",
       "This form teaches the profound lesson of finding divine potential in all aspects of life, even in things others might overlook or consider imperfect. The story of Rupa, an artist who learns to embrace her unique style, illustrates how accepting every part of our experience can unlock creativity and joy.",
-      "Uchchhishta Ganapathi reminds us that true fulfillment comes from embracing life fully and recognizing the divine in everything. When children pray to him, they learn to say 'thank you' more often and find joy in simple pleasures."
+      "Uchchhishta Ganapati reminds us that true fulfillment comes from embracing life fully and recognizing the divine in everything. When children pray to him, they learn to say 'thank you' more often and find joy in simple pleasures."
     ],
     mantra: "Om Ucchishta Ganapataye Namaha",
     meaning: "I bow to the grateful Ganesha who teaches appreciation",
@@ -223,7 +221,7 @@ export const ganeshaForms: GaneshaForm[] = [
     story: [
       "Nritya Ganapathi is celebrated as the 'Master of the Dance,' the divine patron of all artists and performers. He is the one to invoke for inspiration, helping devotees find joy, unleash their creativity, and express themselves with grace and confidence.",
       "With a radiant golden hue, he is often depicted in a joyous dance pose under the wish-fulfilling Kalpavriksha tree, embodying the beautiful rhythm of life and creation. In his four hands, he holds his broken tusk, an axe, a noose, and a goad.",
-      "The story of Hari, a drummer frustrated by his attempts at perfection, illustrates that embracing one's own flow—as inspired by Nritya Ganapathi—is where true art and happiness are found."
+      "The story of Hari, a drummer frustrated by his attempts at perfection, illustrates that embracing one's own flow—as inspired by Nritya Ganapati—is where true art and happiness are found."
     ],
     mantra: "Om Nritya Ganapataye Namaha",
     meaning: "I bow to the dancing Ganesha",
@@ -234,7 +232,7 @@ export const ganeshaForms: GaneshaForm[] = [
     name: "Urdhva Ganapati",
     tagline: "The elevated Ganesha who lifts our spirits high!",
     story: [
-      "Urdhva Ganapathi is revered as 'The Elevated One,' the radiant deity who lifts devotees to higher states of being. He is the one to invoke for spiritual growth and the loving support needed to rise to our best selves.",
+      "Urdhva Ganapati is revered as 'The Elevated One,' the radiant deity who lifts devotees to higher states of being. He is the one to invoke for spiritual growth and the loving support needed to rise to our best selves.",
       "Shining with a beautiful golden hue and seated with his Shakti (divine consort) on his lap, he symbolizes the immense power found in love, partnership, and upward progress. In his eight hands, he holds his broken tusk, flowers, a paddy sprig, and a sugarcane bow.",
       "The story of Leela, a shy girl who finds the confidence to recite a poem after thinking of his loving embrace, illustrates his power to help us overcome hesitation and achieve our full potential."
     ],
