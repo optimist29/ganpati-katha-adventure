@@ -19,7 +19,7 @@ export const ganeshaImages: Record<string, string> = {
   "dvija-ganapati": "/lovable-uploads/c5d6f463-3d8b-4d40-a82b-f8f235c90573.png",
   "siddhi-ganapati": "/lovable-uploads/c5d6f463-3d8b-4d40-a82b-f8f235c90573.png",
   "ucchishta-ganapati": "/lovable-uploads/61864101-b55b-45b0-b3a9-d61fd36c0e4d.png",
-  "vigna-ganapati": "/lovable-uploads/61864101-b55b-45b0-b3a9-d61fd36c0e4d.png"
+  "vigna-ganapati": "/lovable-uploads/61864101-b55b-45b0-b3a9-d61fd36c0e4d.png",
   "kshipra-ganapati": "/lovable-uploads/c0bf9183-1ddd-4366-a273-c8bf428d8628.png",
   "heramba-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
   "lakshmi-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
