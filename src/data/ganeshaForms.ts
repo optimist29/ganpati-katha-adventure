@@ -70,7 +70,8 @@ export const ganeshaForms: GaneshaForm[] = [
     ],
     mantra: "Om Bhakti Ganapataye Namaha",
     meaning: "I bow to the devotional Ganesha who fills our hearts with love",
-    videoId: "Zyz8sJZxoDs"
+    videoId: "Zyz8sJZxoDs",
+    imagePath: ganeshaImages["bhakti-ganapati"]
   },
   {
     id: "veera-ganapati",
@@ -111,7 +112,8 @@ export const ganeshaForms: GaneshaForm[] = [
     ],
     mantra: "Om Dvija Ganapataye Namaha",
     meaning: "I bow to the scholarly Ganesha who blesses us with wisdom",
-    videoId: "0BC5WZZLytI"
+    videoId: "0BC5WZZLytI",
+    imagePath: ganeshaImages["dvija-ganapati"]
   },
   {
     id: "siddhi-ganapati",
@@ -152,7 +154,8 @@ export const ganeshaForms: GaneshaForm[] = [
     ],
     mantra: "Om Vighna Ganapataye Namaha",
     meaning: "I bow to the obstacle-removing Ganesha who clears our path",
-    videoId: "gvgPQcurlPw"
+    videoId: "gvgPQcurlPw",
+    imagePath: ganeshaImages["vighna-ganapati"]
   },
   {
     id: "kshipra-ganapati",
@@ -193,7 +196,8 @@ export const ganeshaForms: GaneshaForm[] = [
     ],
     mantra: "Om Lakshmi Ganapataye Namaha",
     meaning: "I bow to the prosperous Ganesha who brings abundance",
-    videoId: "B0bhXGFNlnM"
+    videoId: "B0bhXGFNlnM",
+    imagePath: ganeshaImages["lakshmi-ganapati"]
   },
   {
     id: "maha-ganapati",
@@ -220,7 +224,8 @@ export const ganeshaForms: GaneshaForm[] = [
     ],
     mantra: "Om Vijaya Ganapataye Namaha",
     meaning: "I bow to the victorious Ganesha",
-    videoId: "bDrDhZ9C7bE"
+    videoId: "bDrDhZ9C7bE",
+    imagePath: ganeshaImages["vijaya-ganapati"]
   },
   {
     id: "nritya-ganapati",
@@ -233,7 +238,8 @@ export const ganeshaForms: GaneshaForm[] = [
     ],
     mantra: "Om Nritya Ganapataye Namaha",
     meaning: "I bow to the dancing Ganesha",
-    videoId: "ubGVmEgh4Is"
+    videoId: "ubGVmEgh4Is",
+    imagePath: ganeshaImages["nritya-ganapati"]
   },
   {
     id: "urdhva-ganapati",
@@ -246,7 +252,8 @@ export const ganeshaForms: GaneshaForm[] = [
     ],
     mantra: "Om Urdhva Ganapataye Namaha",
     meaning: "I bow to the elevated Ganesha",
-    videoId: "mMzSVPyoBe4"
+    videoId: "mMzSVPyoBe4",
+    imagePath: ganeshaImages["urdhva-ganapati"]
   },
   {
     id: "ekakshara-ganapati",
@@ -259,7 +266,8 @@ export const ganeshaForms: GaneshaForm[] = [
     ],
     mantra: "Om Ekakshara Ganapataye Namaha",
     meaning: "I bow to the single-syllable Ganesha",
-    videoId: "VhlaS1zwz-o"
+    videoId: "VhlaS1zwz-o",
+    imagePath: ganeshaImages["ekakshara-ganapati"]
   },
   {
     id: "varada-ganapati",
