@@ -1,4 +1,3 @@
-
 import { useParams, Link } from "react-router-dom";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -50,9 +49,19 @@ const GaneshaDetail = () => {
 
             {/* Illustration */}
             <div className="flex justify-center">
-              <div className="w-64 h-64 bg-gradient-to-br from-orange-200 to-purple-200 rounded-2xl flex items-center justify-center text-8xl shadow-lg border-4 border-orange-300/50">
-                🐘
-              </div>
+              {ganesha.imagePath ? (
+                <div className="w-80 h-80 bg-white rounded-2xl flex items-center justify-center shadow-lg border-4 border-orange-300/50 overflow-hidden">
+                  <img 
+                    src={ganesha.imagePath} 
+                    alt={`Beautiful illustration of ${ganesha.name}`}
+                    className="w-full h-full object-contain p-4"
+                  />
+                </div>
+              ) : (
+                <div className="w-64 h-64 bg-gradient-to-br from-orange-200 to-purple-200 rounded-2xl flex items-center justify-center text-8xl shadow-lg border-4 border-orange-300/50">
+                  🐘
+                </div>
+              )}
             </div>
 
             {/* Tagline */}

@@ -56,8 +56,16 @@ const Index = () => {
               >
                 <Card className="h-full border-2 border-orange-200 hover:border-purple-400 transition-all duration-300 group-hover:scale-105 group-hover:shadow-lg bg-gradient-to-br from-white to-orange-50/50">
                   <CardContent className="p-3">
-                    <div className="aspect-square bg-gradient-to-br from-orange-100 to-purple-100 rounded-lg mb-2 flex items-center justify-center text-4xl">
-                      🐘
+                    <div className="aspect-square bg-gradient-to-br from-orange-100 to-purple-100 rounded-lg mb-2 flex items-center justify-center overflow-hidden">
+                      {form.imagePath ? (
+                        <img 
+                          src={form.imagePath} 
+                          alt={`Illustration of ${form.name}`}
+                          className="w-full h-full object-contain"
+                        />
+                      ) : (
+                        <div className="text-4xl">🐘</div>
+                      )}
                     </div>
                     <div className="text-center">
                       <h3 className="font-semibold text-sm text-purple-700 group-hover:text-orange-600 transition-colors">
