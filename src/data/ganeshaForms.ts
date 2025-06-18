@@ -20,14 +20,14 @@ export const ganeshaImages: Record<string, string> = {
   "siddhi-ganapati": "/lovable-uploads/c0bf9183-1ddd-4366-a273-c8bf428d8628.png",
   "ucchishta-ganapati": "/lovable-uploads/61864101-b55b-45b0-b3a9-d61fd36c0e4d.png",
   "vighna-ganapati": "/lovable-uploads/c5d6f463-3d8b-4d40-a82b-f8f235c90573.png",
-  "kshipra-ganapati": "/lovable-uploads/c0bf9183-1ddd-4366-a273-c8bf428d8628.png",
+  "kshipra-ganapati": "/lovable-uploads/ksipra.jpg",
   "heramba-ganapati": "/lovable-uploads/48e0d7c7-be0b-4860-ac21-cc2d43888de4.png",
-  "lakshmi-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
-  "maha-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
-  "vijaya-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
-  "nritya-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
-  "urdhva-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png", 
-  "ekakashara-ganapati": "/lovable-uploads/61864101-b55b-45b0-b3a9-d61fd36c0e4d.png"
+  "lakshmi-ganapati": "/lovable-uploads/LakshmiGanapathi.jpg",
+  "maha-ganapati": "/lovable-uploads/maha.jpg",
+  "vijaya-ganapati": "/lovable-uploads/VijayaGanapathi_copyrighted.png",
+  "nritya-ganapati": "/lovable-uploads/NrityaGanapathi.jpg",
+  "urdhva-ganapati": "/lovable-uploads/UrdhvaGanapathi_copyrighted.png", 
+  "ekakashara-ganapati": "/lovable-uploads/EkaksharaGanapathi_copyrighted.png"
 };
 
 export const ganeshaForms: GaneshaForm[] = [
@@ -267,7 +267,7 @@ export const ganeshaForms: GaneshaForm[] = [
     mantra: "Om Ekakshara Ganapataye Namaha",
     meaning: "I bow to the single-syllable Ganesha",
     videoId: "VhlaS1zwz-o",
-    imagePath: ganeshaImages["ekakshara-ganapati"]
+    imagePath: ganeshaImages["ekakashara-ganapati"]
   },
   {
     id: "varada-ganapati",
