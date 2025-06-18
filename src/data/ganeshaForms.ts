@@ -13,12 +13,21 @@ export interface GaneshaForm {
 export const ganeshaImages: Record<string, string> = {
   "bala-ganapati": "/lovable-uploads/71dbedae-8020-4528-8c1b-4ca1a1ea8161.png",
   "taruna-ganapati": "/lovable-uploads/a2bd7591-6a95-4115-80c7-0a35ec0ce56b.png",
+  "bhakti-ganapati": "/lovable-uploads/23cc524e-6446-4e37-acf8-cb02c997d926.png",
   "veera-ganapati": "/lovable-uploads/23cc524e-6446-4e37-acf8-cb02c997d926.png",
-  "siddhi-ganapati": "/lovable-uploads/c5d6f463-3d8b-4d40-a82b-f8f235c90573.png",
   "shakti-ganapati": "/lovable-uploads/79e847bb-0d1f-497f-ab4a-8fc35db0c505.png",
-  "heramba-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
+  "dvija-ganapati": "/lovable-uploads/c5d6f463-3d8b-4d40-a82b-f8f235c90573.png",
+  "siddhi-ganapati": "/lovable-uploads/c5d6f463-3d8b-4d40-a82b-f8f235c90573.png",
+  "ucchishta-ganapati": "/lovable-uploads/61864101-b55b-45b0-b3a9-d61fd36c0e4d.png",
+  "vigna-ganapati": "/lovable-uploads/61864101-b55b-45b0-b3a9-d61fd36c0e4d.png"
   "kshipra-ganapati": "/lovable-uploads/c0bf9183-1ddd-4366-a273-c8bf428d8628.png",
-  "ucchishta-ganapati": "/lovable-uploads/61864101-b55b-45b0-b3a9-d61fd36c0e4d.png"
+  "heramba-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
+  "lakshmi-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
+  "maha-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
+  "vijaya-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
+  "nritya-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
+  "urdhva-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png", 
+  "ekakashara-ganapati": "/lovable-uploads/61864101-b55b-45b0-b3a9-d61fd36c0e4d.png"
 };
 
 export const ganeshaForms: GaneshaForm[] = [
