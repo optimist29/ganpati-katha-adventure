@@ -14,12 +14,11 @@ export const ganeshaImages: Record<string, string> = {
   "bala-ganapati": "/lovable-uploads/71dbedae-8020-4528-8c1b-4ca1a1ea8161.png",
   "taruna-ganapati": "/lovable-uploads/a2bd7591-6a95-4115-80c7-0a35ec0ce56b.png",
   "veera-ganapati": "/lovable-uploads/23cc524e-6446-4e37-acf8-cb02c997d926.png",
-  "siddhi-ganapati": "/lovable-uploads/f4421ee1-8577-43bf-91d4-7faa8aed50f0.png",
+  "siddhi-ganapati": "/lovable-uploads/c5d6f463-3d8b-4d40-a82b-f8f235c90573.png",
   "shakti-ganapati": "/lovable-uploads/79e847bb-0d1f-497f-ab4a-8fc35db0c505.png",
   "heramba-ganapati": "/lovable-uploads/e9b339db-5f60-4817-83c9-ecfaf5277dbb.png",
   "kshipra-ganapati": "/lovable-uploads/c0bf9183-1ddd-4366-a273-c8bf428d8628.png",
-  "ucchishta-ganapati": "/lovable-uploads/61864101-b55b-45b0-b3a9-d61fd36c0e4d.png",
-  "maha-ganapati": "/lovable-uploads/c5d6f463-3d8b-4d40-a82b-f8f235c90573.png"
+  "ucchishta-ganapati": "/lovable-uploads/61864101-b55b-45b0-b3a9-d61fd36c0e4d.png"
 };
 
 export const ganeshaForms: GaneshaForm[] = [
@@ -219,7 +218,7 @@ export const ganeshaForms: GaneshaForm[] = [
     name: "Nritya Ganapati",
     tagline: "The dancing Ganesha who brings joy and celebration!",
     story: [
-      "Nritya Ganapathi is celebrated as the 'Master of the Dance,' the divine patron of all artists and performers. He is the one to invoke for inspiration, helping devotees find joy, unleash their creativity, and express themselves with grace and confidence.",
+      "Nritya Ganapati is celebrated as the 'Master of the Dance,' the divine patron of all artists and performers. He is the one to invoke for inspiration, helping devotees find joy, unleash their creativity, and express themselves with grace and confidence.",
       "With a radiant golden hue, he is often depicted in a joyous dance pose under the wish-fulfilling Kalpavriksha tree, embodying the beautiful rhythm of life and creation. In his four hands, he holds his broken tusk, an axe, a noose, and a goad.",
       "The story of Hari, a drummer frustrated by his attempts at perfection, illustrates that embracing one's own flow—as inspired by Nritya Ganapati—is where true art and happiness are found."
     ],
@@ -247,13 +246,12 @@ export const ganeshaForms: GaneshaForm[] = [
     story: [
       "Ekakshara Ganapathi is revered as 'The Deity of the Single Syllable,' the supreme deity of focus and concentration. He is the one to invoke for mental clarity and the power to control desires, helping devotees cut through distractions to find their inner strength.",
       "With a radiant red hue symbolizing energy and passion, he sits in a meditative lotus pose, representing the deep focus required to attain true potential. In his four hands, he holds his broken tusk, a goad, a noose, and a citron fruit.",
-      "The story of Anya, a baker whose mind wanders like squirrels, illustrates how focusing her attention—inspired by Ekakshara Ganapathi—helps her silence distractions and unlock her true creative power."
+      "The story of Anya, a baker whose mind wanders like squirrels, illustrates how focusing her attention—inspired by Ekakshara Ganapati—helps her silence distractions and unlock her true creative power."
     ],
     mantra: "Om Ekakshara Ganapataye Namaha",
     meaning: "I bow to the single-syllable Ganesha",
     videoId: "VhlaS1zwz-o"
   },
-  // Continue with remaining forms using placeholder content for now
   {
     id: "varada-ganapati",
     name: "Varada Ganapati",

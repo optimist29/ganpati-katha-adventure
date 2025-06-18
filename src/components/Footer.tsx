@@ -28,7 +28,7 @@ const Footer = () => {
           </div>
           
           <div className="border-t border-purple-700 pt-4 text-sm text-purple-300">
-            <p>© 2024 Kathas with Pooja. All rights reserved.</p>
+            <p>© 2025 Kathas with Pooja. All rights reserved.</p>
           </div>
         </div>
       </div>
