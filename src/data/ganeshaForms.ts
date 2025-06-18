@@ -13,7 +13,7 @@ export interface GaneshaForm {
 export const ganeshaImages: Record<string, string> = {
   "bala-ganapati": "/lovable-uploads/71dbedae-8020-4528-8c1b-4ca1a1ea8161.png",
   "taruna-ganapati": "/lovable-uploads/a2bd7591-6a95-4115-80c7-0a35ec0ce56b.png",
-  "bhakti-ganapati": "/lovable-uploads/23cc524e-6446-4e37-acf8-cb02c997d926.png",
+  "bhakti-ganapati": "/lovable-uploads/f4421ee1-8577-43bf-91d4-7faa8aed50f0.png",
   "veera-ganapati": "/lovable-uploads/23cc524e-6446-4e37-acf8-cb02c997d926.png",
   "shakti-ganapati": "/lovable-uploads/79e847bb-0d1f-497f-ab4a-8fc35db0c505.png",
   "dvija-ganapati": "/lovable-uploads/c5d6f463-3d8b-4d40-a82b-f8f235c90573.png",
