@@ -34,6 +34,41 @@ const Index = () => {
         </div>
       </section>
 
+      {/* Welcome Video Section */}
+      <section className="py-16 bg-gradient-to-br from-white/80 to-orange-50/50">
+        <div className="container mx-auto px-4">
+          <div className="text-center max-w-4xl mx-auto">
+            <h2 className="text-4xl font-bold text-purple-700 mb-8 animate-fade-in">
+              What Makes Ganesha So Special? Watch this Story!
+            </h2>
+            <div className="bg-white/90 backdrop-blur-sm rounded-3xl p-8 shadow-xl border border-orange-200/50 animate-scale-in">
+              <div className="aspect-video rounded-2xl overflow-hidden shadow-lg mb-6">
+                <iframe
+                  width="100%"
+                  height="100%"
+                  src="https://www.youtube.com/embed/OVIz8M8fva0"
+                  title="What Makes Ganesha So Special?"
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerPolicy="strict-origin-when-cross-origin"
+                  allowFullScreen
+                  className="w-full h-full"
+                ></iframe>
+              </div>
+              <Button 
+                asChild
+                size="lg" 
+                className="bg-gradient-to-r from-orange-500 to-purple-600 text-white hover:from-orange-600 hover:to-purple-700 text-lg px-8 py-4 rounded-full font-bold shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
+              >
+                <a href="https://www.youtube.com/@kathaswithpooja" target="_blank" rel="noopener noreferrer">
+                  Watch More & Subscribe on YouTube! 🎬
+                </a>
+              </Button>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Interactive Gallery Section */}
       <section className="py-16 bg-white/50">
         <div className="container mx-auto px-4">
