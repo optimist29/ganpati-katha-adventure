@@ -46,7 +46,7 @@ const Index = () => {
                 <iframe
                   width="100%"
                   height="100%"
-                  src="https://www.youtube.com/embed/OVIz8M8fva0"
+                  src="https://www.youtube.com/embed/r1LqfZjFI84"
                   title="What Makes Ganesha So Special?"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
