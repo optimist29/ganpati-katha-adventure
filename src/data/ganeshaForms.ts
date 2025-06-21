@@ -27,7 +27,8 @@ export const ganeshaImages: Record<string, string> = {
   "vijaya-ganapati": "/lovable-uploads/VijayaGanapathi_copyrighted.png",
   "nritya-ganapati": "/lovable-uploads/NrityaGanapathi.jpg",
   "urdhva-ganapati": "/lovable-uploads/UrdhvaGanapathi_copyrighted.png", 
-  "ekakashara-ganapati": "/lovable-uploads/EkaksharaGanapathi_copyrighted.png"
+  "ekakashara-ganapati": "/lovable-uploads/EkaksharaGanapathi_copyrighted.png",
+  "varada-ganapati": "/lovable-uploads/VaradhaGanapathi_copyrighted.JPG"
 };
 
 export const ganeshaForms: GaneshaForm[] = [
@@ -275,7 +276,9 @@ export const ganeshaForms: GaneshaForm[] = [
     tagline: "The blessing-giving Ganesha who grants our wishes!",
     story: ["This is the story of Varada Ganapati..."],
     mantra: "Om Varada Ganapataye Namaha",
-    meaning: "I bow to the blessing-giving Ganesha"
+    meaning: "I bow to the blessing-giving Ganesha",
+    videoId: "VhlaS1zwz-o",
+    imagePath: ganeshaImages["varada-ganapati"]
   },
   {
     id: "tryakshara-ganapati",
