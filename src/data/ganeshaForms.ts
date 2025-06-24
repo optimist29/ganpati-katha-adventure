@@ -274,10 +274,10 @@ export const ganeshaForms: GaneshaForm[] = [
     id: "varada-ganapati",
     name: "Varada Ganapati",
     tagline: "The blessing-giving Ganesha who grants our wishes!",
-    story: ["This is the story of Varada Ganapati..."],
+    story: ["Varada Ganapati, a form of the Hindu deity Ganesha known as the "giver of boons." He is depicted in a radiant red color with three eyes, symbolizing his ability to see wisdom and grant wishes. In his hands, he holds an ankusha (goad) for guidance and a vessel of nectar, symbolizing an endless flow of blessings. The story of a young girl named Diya illustrates how Varada Ganapati provides not just what is wished for, but the courage to achieve it. The video concludes with an affirmation, encouraging viewers to feel blessed, grateful, and open to receiving divine grace."],
     mantra: "Om Varada Ganapataye Namaha",
     meaning: "I bow to the blessing-giving Ganesha",
-    videoId: "VhlaS1zwz-o",
+    videoId: "eoAXJ7xZcF8",
     imagePath: ganeshaImages["varada-ganapati"]
   },
   {
