@@ -28,7 +28,8 @@ export const ganeshaImages: Record<string, string> = {
   "nritya-ganapati": "/lovable-uploads/NrityaGanapathi.jpg",
   "urdhva-ganapati": "/lovable-uploads/UrdhvaGanapathi_copyrighted.png", 
   "ekakashara-ganapati": "/lovable-uploads/EkaksharaGanapathi_copyrighted.png",
-  "varada-ganapati": "/lovable-uploads/VaradhaGanapathi_copyrighted.JPG"
+  "varada-ganapati": "/lovable-uploads/VaradhaGanapathi_copyrighted.JPG",
+  "tryakshara-ganapati": "/lovable-uploads/Tryakshara%20ganapathi_copyrighted.JPG"
 };
 
 export const ganeshaForms: GaneshaForm[] = [
@@ -286,7 +287,9 @@ export const ganeshaForms: GaneshaForm[] = [
     tagline: "The three-syllable Ganesha of sacred sound!",
     story: ["This is the story of Tryakshara Ganapati..."],
     mantra: "Om Tryakshara Ganapataye Namaha",
-    meaning: "I bow to the three-syllable Ganesha"
+    meaning: "I bow to the three-syllable Ganesha",
+     videoId: "yy44qYO2yrk",
+    imagePath: ganeshaImages["tryakshara-ganapati"]
   },
   {
     id: "kshipra-prasada-ganapati",
