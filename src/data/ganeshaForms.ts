@@ -29,7 +29,7 @@ export const ganeshaImages: Record<string, string> = {
   "urdhva-ganapati": "/lovable-uploads/UrdhvaGanapathi_copyrighted.png", 
   "ekakashara-ganapati": "/lovable-uploads/EkaksharaGanapathi_copyrighted.png",
   "varada-ganapati": "/lovable-uploads/VaradhaGanapathi_copyrighted.JPG",
-  "tryakshara-ganapati": "/lovable-uploads/Tryaksharaganapathi.JPG"
+  "tryakshara-ganapati": "/lovable-uploads/TryaksharaGanapati.JPG"
 };
 
 export const ganeshaForms: GaneshaForm[] = [
