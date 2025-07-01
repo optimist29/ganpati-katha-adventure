@@ -285,7 +285,9 @@ export const ganeshaForms: GaneshaForm[] = [
     id: "tryakshara-ganapati",
     name: "Tryakshara Ganapati",
     tagline: "The three-syllable Ganesha of sacred sound!",
-    story: ["This is the story of Tryakshara Ganapati..."],
+    story: ["Tryakshara Ganapathi is presented as a wise and thoughtful form of Ganesha, representing focus, clarity, and the sacred three-letter sound of ‘Om.’ He is depicted with a radiant golden body, signifying deep wisdom, and large, attentive ears that listen carefully and fan away worries. His gentle presence brings peace and a calm mind.
+With four arms, he holds a goad to guide followers on the right path and a noose to help them stay focused. He also carries his broken tusk, symbolizing the sacrifice made for knowledge, and a ripe mango, representing the sweet rewards of thoughtful effort. A modak held in his trunk reminds us to enjoy life’s simple joys.
+The story tells of a girl named Aditi who, overwhelmed by too many ideas for her birthday party, feels confused and frustrated. Inspired by Tryakshara Ganapathi's attentiveness, she learns to focus on what is most important. Tryakshara Ganapathi teaches the power of listening, focusing the mind, and making wise choices to achieve clarity and enjoy the fruitful results of our actions."],
     mantra: "Om Tryakshara Ganapataye Namaha",
     meaning: "I bow to the three-syllable Ganesha",
      videoId: "yy44qYO2yrk",
