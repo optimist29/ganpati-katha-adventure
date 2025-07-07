@@ -29,7 +29,8 @@ export const ganeshaImages: Record<string, string> = {
   "urdhva-ganapati": "/lovable-uploads/UrdhvaGanapathi_copyrighted.png", 
   "ekakashara-ganapati": "/lovable-uploads/EkaksharaGanapathi_copyrighted.png",
   "varada-ganapati": "/lovable-uploads/VaradhaGanapathi_copyrighted.JPG",
-  "tryakshara-ganapati": "/lovable-uploads/TryaksharaGanapati.JPG"
+  "tryakshara-ganapati": "/lovable-uploads/TryaksharaGanapati.JPG",
+   "kshipra-prasada-ganapati":"/lovable-uploadsKshipraPrasadaGanapathi_copyrighted"
 };
 
 export const ganeshaForms: GaneshaForm[] = [
@@ -299,7 +300,9 @@ export const ganeshaForms: GaneshaForm[] = [
     tagline: "The quick-blessing Ganesha who responds immediately!",
     story: ["This is the story of Kshipra Prasada Ganapati..."],
     mantra: "Om Kshipra Prasada Ganapataye Namaha",
-    meaning: "I bow to the quick-blessing Ganesha"
+    meaning: "I bow to the quick-blessing Ganesha",
+    videoId: "",
+    imagePath: ganeshaImages ["kshipra-prasada-ganapati"]
   },
   {
     id: "haridra-ganapati",
