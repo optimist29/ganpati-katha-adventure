@@ -286,9 +286,11 @@ export const ganeshaForms: GaneshaForm[] = [
     id: "tryakshara-ganapati",
     name: "Tryakshara Ganapati",
     tagline: "The three-syllable Ganesha of sacred sound!",
-    story: ["Tryakshara Ganapathi is presented as a wise and thoughtful form of Ganesha, representing focus, clarity, and the sacred three-letter sound of ‘Om.’ He is depicted with a radiant golden body, signifying deep wisdom, and large, attentive ears that listen carefully and fan away worries. His gentle presence brings peace and a calm mind.",
-"With four arms, he holds a goad to guide followers on the right path and a noose to help them stay focused. He also carries his broken tusk, symbolizing the sacrifice made for knowledge, and a ripe mango, representing the sweet rewards of thoughtful effort. A modak held in his trunk reminds us to enjoy life’s simple joys.",
-"The story tells of a girl named Aditi who, overwhelmed by too many ideas for her birthday party, feels confused and frustrated. Inspired by Tryakshara Ganapathi's attentiveness, she learns to focus on what is most important. Tryakshara Ganapathi teaches the power of listening, focusing the mind, and making wise choices to achieve clarity and enjoy the fruitful results of our actions."],
+    story: [
+      "Tryakshara Ganapathi is presented as a wise and thoughtful form of Ganesha, representing focus, clarity, and the sacred three-letter sound of ‘Om.’ He is depicted with a radiant golden body, signifying deep wisdom, and large, attentive ears that listen carefully and fan away worries. His gentle presence brings peace and a calm mind.",
+      "With four arms, he holds a goad to guide followers on the right path and a noose to help them stay focused. He also carries his broken tusk, symbolizing the sacrifice made for knowledge, and a ripe mango, representing the sweet rewards of thoughtful effort. A modak held in his trunk reminds us to enjoy life’s simple joys.",
+      "The story tells of a girl named Aditi who, overwhelmed by too many ideas for her birthday party, feels confused and frustrated. Inspired by Tryakshara Ganapathi's attentiveness, she learns to focus on what is most important. Tryakshara Ganapathi teaches the power of listening, focusing the mind, and making wise choices to achieve clarity and enjoy the fruitful results of our actions."
+    ],
     mantra: "Om Tryakshara Ganapataye Namaha",
     meaning: "I bow to the three-syllable Ganesha",
      videoId: "yy44qYO2yrk",
@@ -298,10 +300,12 @@ export const ganeshaForms: GaneshaForm[] = [
     id: "kshipra-prasada-ganapati",
     name: "Kshipra Prasada Ganapati",
     tagline: "The quick-blessing Ganesha who responds immediately!",
-    story: ["Kshipra Prasada Ganapati is the form of Ganesha who grants blessings and grace swiftly. He is depicted with a radiant reddish color, representing powerful energy, and three eyes that signify his wisdom and ability to see everything. A crescent moon on his head symbolizes a calm and thoughtful nature.",
-"With four arms, he holds a pasha (noose) to gently guide followers, an ankusha (goad) to help them stay focused, a wish-fulfilling creeper called Kalpalata, a pomegranate representing abundance, a lotus for purity, and his own broken tusk. This form of Ganesha is known for removing worries and bringing prosperity with remarkable speed.",
-"The story tells of a young girl named Sana, who is directing her first school play. Hours before the show, the main prop—an elaborate crown—breaks, leaving her heartbroken with no time for a replacement. Her grandmother reminds her to think of Shipra Prasada Ganapathi. Just then, her younger brother appears with a box containing a beautiful, perfectly-sized tiara from their grandmother’s youth. The play becomes a huge success, thanks to this swift and unexpected blessing.",
-"Shipra Prasada Ganapathi teaches that help is always near and that good fortune can arrive quickly and unexpectedly when we truly need it."],
+    story: [
+      "Kshipra Prasada Ganapati is the form of Ganesha who grants blessings and grace swiftly. He is depicted with a radiant reddish color, representing powerful energy, and three eyes that signify his wisdom and ability to see everything. A crescent moon on his head symbolizes a calm and thoughtful nature.",
+      "With four arms, he holds a pasha (noose) to gently guide followers, an ankusha (goad) to help them stay focused, a wish-fulfilling creeper called Kalpalata, a pomegranate representing abundance, a lotus for purity, and his own broken tusk. This form of Ganesha is known for removing worries and bringing prosperity with remarkable speed.",
+      "The story tells of a young girl named Sana, who is directing her first school play. Hours before the show, the main prop—an elaborate crown—breaks, leaving her heartbroken with no time for a replacement. Her grandmother reminds her to think of Shipra Prasada Ganapathi. Just then, her younger brother appears with a box containing a beautiful, perfectly-sized tiara from their grandmother’s youth. The play becomes a huge success, thanks to this swift and unexpected blessing.",
+      "Kshipra Prasada Ganapathi teaches that help is always near and that good fortune can arrive quickly and unexpectedly when we truly need it."
+    ],
     mantra: "Om Kshipra Prasada Ganapataye Namaha",
     meaning: "I bow to the quick-blessing Ganesha",
     videoId: "XX6H-zYHZ9o",
