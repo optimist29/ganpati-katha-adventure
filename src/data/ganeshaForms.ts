@@ -298,10 +298,13 @@ export const ganeshaForms: GaneshaForm[] = [
     id: "kshipra-prasada-ganapati",
     name: "Kshipra Prasada Ganapati",
     tagline: "The quick-blessing Ganesha who responds immediately!",
-    story: ["This is the story of Kshipra Prasada Ganapati..."],
+    story: ["Kshipra Prasada Ganapati is the form of Ganesha who grants blessings and grace swiftly. He is depicted with a radiant reddish color, representing powerful energy, and three eyes that signify his wisdom and ability to see everything. A crescent moon on his head symbolizes a calm and thoughtful nature.",
+"With four arms, he holds a pasha (noose) to gently guide followers, an ankusha (goad) to help them stay focused, a wish-fulfilling creeper called Kalpalata, a pomegranate representing abundance, a lotus for purity, and his own broken tusk. This form of Ganesha is known for removing worries and bringing prosperity with remarkable speed.",
+"The story tells of a young girl named Sana, who is directing her first school play. Hours before the show, the main prop—an elaborate crown—breaks, leaving her heartbroken with no time for a replacement. Her grandmother reminds her to think of Shipra Prasada Ganapathi. Just then, her younger brother appears with a box containing a beautiful, perfectly-sized tiara from their grandmother’s youth. The play becomes a huge success, thanks to this swift and unexpected blessing.",
+"Shipra Prasada Ganapathi teaches that help is always near and that good fortune can arrive quickly and unexpectedly when we truly need it."],
     mantra: "Om Kshipra Prasada Ganapataye Namaha",
     meaning: "I bow to the quick-blessing Ganesha",
-    videoId: "",
+    videoId: "XX6H-zYHZ9o",
     imagePath: ganeshaImages ["kshipra-prasada-ganapati"]
   },
   {
